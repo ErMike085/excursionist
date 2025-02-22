@@ -1,0 +1,17 @@
+body {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+header, main, footer {
+  background-color: #1e1e1e;
+  color: #ffffff;
+}
+
+a {
+  color: #bb86fc;
+}
+
+a:hover {
+  color: #3700b3;
+}
